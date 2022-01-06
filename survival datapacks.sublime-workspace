@@ -1,0 +1,724 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ret",
+				"returnedEmbedObject"
+			],
+			[
+				"ina",
+				"inaraSquadronIdOption"
+			],
+			[
+				"squadr",
+				"squadronGuildAssoc"
+			],
+			[
+				"carrier",
+				"carrierId"
+			],
+			[
+				"outgoing",
+				"outgoingDescription"
+			],
+			[
+				"Carr",
+				"CarrierJumpCancelled"
+			],
+			[
+				"carr",
+				"carrierName"
+			],
+			[
+				"cal",
+				"carrierCallsign"
+			],
+			[
+				"autoupdate",
+				"autoUpdateProjectName"
+			],
+			[
+				"auto",
+				"autoUpdateVersionFamily"
+			],
+			[
+				"paper",
+				"paperFilename"
+			],
+			[
+				"autoUpdate",
+				"autoUpdateViaPaperApi"
+			],
+			[
+				"eddb",
+				"eddbSystemInfo"
+			],
+			[
+				"econo",
+				"economyInformation"
+			],
+			[
+				"systemin",
+				"systeminfoApiResult"
+			],
+			[
+				"system1",
+				"system1apiResult"
+			],
+			[
+				"sec",
+				"secondaryClass"
+			],
+			[
+				"restar",
+				"restartDelay"
+			],
+			[
+				"deepl",
+				"deepCleanServer"
+			],
+			[
+				"rcon",
+				"rconPassword"
+			],
+			[
+				"server",
+				"serverSettingsObject"
+			],
+			[
+				"direct",
+				"directiveName"
+			],
+			[
+				"target",
+				"targetDirectory"
+			],
+			[
+				"work",
+				"crewWorkforceNeededForStatBonus"
+			],
+			[
+				"portfol",
+				"portfolioImageHoverText"
+			],
+			[
+				"scra",
+				"ScrapyardPlayer"
+			],
+			[
+				"rglx",
+				"rglx-systemderandomizer"
+			],
+			[
+				"filename",
+				"filenameTruncated"
+			],
+			[
+				"is",
+				"is\tkeyword"
+			],
+			[
+				"desti",
+				"destinationChatId"
+			],
+			[
+				"Cache",
+				"Cache"
+			],
+			[
+				"foundNe",
+				"foundNewUserAdminStatus"
+			],
+			[
+				"sourceUser",
+				"sourceUserId"
+			],
+			[
+				"not",
+				"not"
+			],
+			[
+				"replicator",
+				"replicatorTargetUnselected"
+			],
+			[
+				"replicatortar",
+				"replicatorTargetSelected"
+			],
+			[
+				"turretFac",
+				"turretFactoryTitle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ADD REP",
+				"Package Control: Add Repository"
+			],
+			[
+				"hex vi",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"hex ",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"Package Control: install\t",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"conda",
+				"Anaconda: Vagrant Status"
+			],
+			[
+				"package control ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package c",
+				"Package Control: Install Package"
+			],
+			[
+				"install package\t",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"load"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Documents/Desktop/survival data packs",
+		"/E/Documents/Desktop/survival data packs/pickaxesdestroyed",
+		"/E/Documents/Desktop/survival data packs/pickaxesdestroyed/data",
+		"/E/Documents/Desktop/survival data packs/pickaxesdestroyed/data/pickaxesdestroyed",
+		"/E/Documents/Desktop/survival data packs/pickaxesdestroyed/data/pickaxesdestroyed/functions",
+		"/E/Documents/Desktop/survival data packs/rotatingscoreboards",
+		"/E/Documents/Desktop/survival data packs/rotatingscoreboards/data",
+		"/E/Documents/Desktop/survival data packs/rotatingscoreboards/data/minecraft",
+		"/E/Documents/Desktop/survival data packs/rotatingscoreboards/data/minecraft/tags",
+		"/E/Documents/Desktop/survival data packs/rotatingscoreboards/data/minecraft/tags/functions",
+		"/E/Documents/Desktop/survival data packs/rotatingscoreboards/data/rotatingscoreboards",
+		"/E/Documents/Desktop/survival data packs/rotatingscoreboards/data/rotatingscoreboards/functions",
+		"/E/Documents/Desktop/survival data packs/stonemined",
+		"/E/Documents/Desktop/survival data packs/stonemined/data",
+		"/E/Documents/Desktop/survival data packs/stonemined/data/stonemined",
+		"/E/Documents/Desktop/survival data packs/stonemined/data/stonemined/functions"
+	],
+	"file_history":
+	[
+		"/E/Documents/Desktop/survival data packs/.gitignore",
+		"/E/Documents/Desktop/survival data packs/scoreconverter/data/scoreconverter/functions/count.mcfunction",
+		"/E/Documents/Desktop/survival data packs/scoreconverter/data/minecraft/tags/functions/tick.json",
+		"/E/Documents/Desktop/survival data packs/scoreconverter/data/minecraft/tags/functions/load.json",
+		"/E/Documents/Desktop/survival data packs/rotatingscoreboards/data/minecraft/tags/functions/load.json",
+		"/E/Documents/Desktop/survival data packs/scoreconverter/data/scoreconverter/functions/uninstall.mcfunction",
+		"/E/Documents/Desktop/survival data packs/stonemined/data/stonemined/functions/setup.mcfunction",
+		"/E/Documents/Desktop/survival data packs/rotatingscoreboards/data/rotatingscoreboards/functions/setup.mcfunction",
+		"/E/Documents/Desktop/survival data packs/scoreconverter/data/scoreconverter/functions/setup.mcfunction",
+		"/E/Documents/Desktop/survival data packs/scoreconverter/pack.mcmeta",
+		"/E/Documents/Desktop/survival data packs/scoreconverter/data/scoreconverter/functions/reset.mcfunction",
+		"/E/Documents/Desktop/survival data packs/scoreconverter/data/scoreconverter/functions/main.mcfunction",
+		"/E/Documents/Desktop/survival data packs/rotatingscoreboards/data/rotatingscoreboards/functions/uninstall.mcfunction",
+		"/E/Documents/Desktop/survival data packs/pickaxesdestroyed/data/pickaxesdestroyed/functions/setup.mcfunction",
+		"/E/Documents/Desktop/survival data packs/pickaxesdestroyed/data/pickaxesdestroyed/functions/uninstall.mcfunction",
+		"/E/Documents/Desktop/survival data packs/pickaxesdestroyed/data/pickaxesdestroyed/functions/reset.mcfunction",
+		"/E/Documents/Desktop/survival data packs/stonemined/data/stonemined/functions/reset.mcfunction",
+		"/E/Documents/Desktop/survival data packs/oresmined/data/oresmined/functions/reset.mcfunction",
+		"/E/Documents/Desktop/craftableelytras/data/crafting/recipes/craftableelytra.json",
+		"/E/Documents/Desktop/craftableelytras/pack.mcmeta",
+		"/C/Users/rglx/AppData/Local/Temp/7zOC8F34F32/pack.mcmeta",
+		"/C/Users/rglx/AppData/Local/Temp/7zOC8FD44C2/craftableelytra.json",
+		"/C/Users/rglx/AppData/Local/Temp/scp58025/gigalith/home/minecraft/pineapples/worlds/amplifiedhell/datapacks/datapack.zip",
+		"/E/Documents/Desktop/stonemined/data/stonemined/functions/uninstall.mcfunction",
+		"/E/Documents/Desktop/stonemined/data/stonemined/functions/setup.mcfunction",
+		"/E/Documents/Desktop/stonemined/data/stonemined/functions/main.mcfunction",
+		"/E/Documents/Desktop/rotatingscoreboards/data/rotatingscoreboards/functions/scoreboardrotator.mcfunction",
+		"/E/Documents/Desktop/stonemined/data/stonemined/functions/reset.mcfunction",
+		"/E/Documents/Desktop/stonemined/data/stonemined/functions/count.mcfunction",
+		"/E/Documents/Desktop/oresmined/data/oresmined/functions/setup.mcfunction",
+		"/E/Documents/Desktop/oresmined/data/oresmined/functions/count.mcfunction",
+		"/E/Documents/Desktop/oresmined/data/oresmined/functions/main.mcfunction",
+		"/E/Documents/Desktop/oresmined/data/oresmined/functions/reset.mcfunction",
+		"/E/Documents/Desktop/oresmined/data/oresmined/functions/uninstall.mcfunction",
+		"/E/Documents/Desktop/pickaxesdestroyed/data/pickaxesdestroyed/functions/uninstall.mcfunction",
+		"/E/Documents/Desktop/pickaxesdestroyed/data/pickaxesdestroyed/functions/setup.mcfunction",
+		"/E/Documents/Desktop/stonemined/pack.mcmeta",
+		"/E/Documents/Desktop/stonemined/data/minecraft/tags/functions/load.json",
+		"/E/Documents/Desktop/stonemined/data/minecraft/tags/functions/tick.json",
+		"/E/Documents/Desktop/pickaxesdestroyed/data/minecraft/tags/functions/load.json",
+		"/E/Documents/Desktop/pickaxesdestroyed/data/minecraft/tags/functions/tick.json",
+		"/E/Documents/Desktop/pickaxesdestroyed/data/pickaxesdestroyed/functions/reset.mcfunction",
+		"/C/Users/rglx/AppData/Local/Temp/scp29806/gigalith/home/minecraft/pineapples/plugins/ScoreboardRotator/config.yml",
+		"/E/Documents/Desktop/oresmined/data/minecraft/tags/functions/load.json",
+		"/E/Documents/Desktop/oresmined/data/minecraft/tags/functions/tick.json",
+		"/E/Documents/Desktop/rotatingscoreboard/pack.mcmeta",
+		"/E/Documents/Desktop/pickaxesdestroyed/data/pickaxesdestroyed/functions/main.mcfunction",
+		"/C/Users/rglx/AppData/Local/Temp/scp32854/gigalith/home/minecraft/bungee/plugins/AntiBot/messages.yml",
+		"/E/Github/Scripts/minecraft-start.sh",
+		"/E/Documents/Desktop/rotatingscoreboards/data/minecraft/tags/functions/tick.json",
+		"/E/Documents/Desktop/scoreboardrotator.mcfunction",
+		"/C/Users/rglx/AppData/Local/Temp/scp27069/gigalith/home/minecraft/pineapples/plugins/BlueMap/webserver.conf",
+		"/C/Users/rglx/AppData/Local/Temp/scp37853/gigalith/home/minecraft/pineapples/plugins/BlueMap/render.conf",
+		"/E/Downloads/Chrome Downloads/message (1).txt",
+		"/C/Users/rglx/AppData/Local/Temp/scp10923/gigalith/home/minecraft/pineapples/start.sh",
+		"/C/Users/rglx/AppData/Local/Temp/scp36104/gigalith/home/minecraft/bungee/plugins/Geyser-BungeeCord/config.yml",
+		"/C/Users/rglx/AppData/Local/Temp/scp35182/gigalith/home/minecraft/bungee/plugins/floodgate/config.yml",
+		"/C/Users/rglx/AppData/Local/Temp/scp32873/gigalith/home/minecraft/bungee/plugins/AntiBot/config.yml",
+		"/C/Users/rglx/AppData/Local/Temp/scp31557/gigalith/home/minecraft/bungee/plugins/ExploitFixer/messages.yml",
+		"/E/Downloads/Chrome Downloads/message.txt",
+		"/E/Documents/Desktop/pickaxesdestroyed/data/pickaxesdestroyed/functions/count.mcfunction",
+		"/E/Documents/Desktop/oresmined/pack.mcmeta",
+		"/E/Documents/Desktop/rotatingscoreboards/data/rotatingscoreboards/functions/main.mcfunction",
+		"/E/Documents/Desktop/pickaxesdestroyed.zip",
+		"/C/Users/rglx/AppData/Local/Temp/scp19193/gigalith/home/minecraft/pineapples/worlds/amplifiedhell/data/scoreboard.dat",
+		"/C/Users/rglx/AppData/Local/Temp/scp32198/gigalith/home/minecraft/pineapples/worlds/amplifiedhell/datapacks/pickaxesdestroyed.zip",
+		"/E/Documents/Desktop/rotatingscoreboard/data/minecraft/tags/functions/tick.json",
+		"/C/Users/rglx/AppData/Local/Temp/7zOC97564D0/pack.mcmeta",
+		"/E/Documents/Desktop/pickaxesdestroyed/data/pickaxesdestroyed/functions/reset_individual_blocks.mcfunction",
+		"/E/Documents/Desktop/pickaxesdestroyed/data/pickaxesdestroyed/functions/count_mined_blocks.mcfunction",
+		"/C/Users/rglx/AppData/Local/Temp/7zOCC509B69/load.json",
+		"/C/Users/rglx/AppData/Local/Temp/7zOCC5AB259/tick.json",
+		"/C/Users/rglx/AppData/Local/Temp/7zOCC50B949/main.mcfunction",
+		"/E/Documents/Desktop/pickaxesdestroyed/pack.mcmeta",
+		"/C/Users/rglx/AppData/Local/Temp/7zOCC5A5609/uninstall.mcfunction",
+		"/E/Documents/Desktop/scoreboard.dat",
+		"/C/Users/rglx/AppData/Local/Temp/7zOCC583B19/setup.mcfunction",
+		"/C/Users/rglx/AppData/Local/Temp/7zOCC513939/reset_individual_blocks.mcfunction",
+		"/C/Users/rglx/AppData/Local/Temp/scp33896/gigalith/home/minecraft/pineapples/worlds/amplifiedhell/datapacks/datapack.zip",
+		"/C/Users/rglx/AppData/Local/Temp/scp51792/cascade/home/bots/elite/new-ed-info-refactor/commands/whois.js",
+		"/C/Users/rglx/AppData/Local/Temp/scp28580/gigalith/home/minecraft/bungee/plugins/BungeeChat/config.conf",
+		"/C/Users/rglx/AppData/Local/Frontier Developments/Elite Dangerous/Options/Graphics/GraphicsConfigurationOverride.xml",
+		"/E/Documents/Desktop/tinystation.csv",
+		"/E/Documents/Desktop/stations.csv",
+		"/E/Documents/Desktop/stations.txt",
+		"/E/Documents/Desktop/anagram.py",
+		"/E/Documents/Desktop/systems.txt",
+		"/C/Users/rglx/AppData/Local/Frontier Developments/Elite Dangerous/Options/Bindings/RglxTwinSticksHz.3.0.binds",
+		"/E/Downloads/Chrome Downloads/ImportStars.txt",
+		"/E/Documents/my games/Saved Games/Frontier Developments/Elite Dangerous/Journal.211226195708.01.log",
+		"/E/Documents/my games/Saved Games/Frontier Developments/Elite Dangerous/Journal.211226180508.01.log",
+		"/C/Users/rglx/AppData/Local/Frontier Developments/Elite Dangerous/387127/VisitedStarsCache.dat",
+		"/C/Users/rglx/AppData/Local/Frontier Developments/Elite Dangerous/387127/RecentlyVisitedStars.dat",
+		"/E/Documents/Desktop/systems_populated.json",
+		"/E/Documents/Desktop/json2csv.py",
+		"/E/Documents/Desktop/json2csv-filtercarriers.py",
+		"/E/Documents/Desktop/stations.json",
+		"/E/Games/MultiMC/instances/1.18.1/.minecraft/launcher_profiles.json",
+		"/C/Users/rglx/AppData/Local/Temp/scp24860/gigalith/home/minecraft/pineapples/start.sh",
+		"/C/Users/rglx/AppData/Local/Temp/scp29330/gigalith/home/minecraft/viewing/start.sh",
+		"/C/Users/rglx/AppData/Local/Temp/scp23944/gigalith/home/minecraft/pineapples/worlds/amplifiedhell/datapacks/datapack.zip",
+		"/C/Users/rglx/AppData/Local/Temp/7zO8C2D8163/craftableelytra.json",
+		"/C/Users/rglx/AppData/Local/Temp/7zO4B11EEB5/pack.mcmeta",
+		"/C/Users/rglx/AppData/Local/Temp/7zO4B1D84E5/pack.mcmeta",
+		"/C/Users/rglx/AppData/Local/Temp/7zO4B11B7F5/craftableelytra.json",
+		"/C/Users/rglx/AppData/Local/Temp/7zO4B147E25/pack.mcmeta",
+		"/E/Documents/Desktop/CryptoDadsNFT.7z",
+		"/E/Documents/Desktop/asdf.html",
+		"/C/Users/rglx/AppData/Local/Frontier Developments/Elite Dangerous/Options/Bindings/RglxTwinSticks.4.0.binds",
+		"/C/Users/rglx/AppData/Local/Frontier Developments/Elite Dangerous/Options/Bindings/StartPreset.4.start",
+		"/C/Users/rglx/AppData/Local/Temp/scp06764/cascade/home/bots/elite/new-ed-info-refactor/commands/whois.js",
+		"/C/Users/rglx/AppData/Local/Temp/scp33691/cascade/home/bots/elite/carriermonitor/carriermonitor.js",
+		"/C/Users/rglx/AppData/Local/Temp/scp45820/cascade/home/bots/elite/new-ed-info-refactor/commands/carrier-locations.js",
+		"/C/Users/rglx/AppData/Local/Temp/scp44686/cascade/home/bots/elite/new-ed-info-refactor/commands/botmanagement.js",
+		"/C/Users/rglx/AppData/Local/Temp/scp45980/cascade/home/bots/elite/new-ed-info-refactor/commands/carrier-locations",
+		"/C/Users/rglx/AppData/Local/EDMarketConnector/plugins/SimpleCarrierDiscordWebhook/load.py",
+		"/C/Users/rglx/AppData/Local/EDMarketConnector/plugins/DiscordPresence/load.py",
+		"/C/Users/rglx/AppData/Local/Temp/EDMarketConnector/EDMarketConnector-debug.log",
+		"/C/Users/rglx/AppData/Local/EDMarketConnector/plugins/edmc-friendorfoe.disabled/load.py",
+		"/C/Users/rglx/AppData/Local/Temp/scp28779/entitybuilds/home/bungee/start.sh",
+		"/C/Users/rglx/AppData/Local/Temp/scp25580/client-guildesports/home/minecraft/bungee/start.sh",
+		"/C/Users/rglx/AppData/Local/Temp/scp20171/gigalith/home/minecraft/bungee/start.sh",
+		"/C/Users/rglx/AppData/Local/Temp/scp50170/cascade/home/bots/elite/new-ed-info/new-ed-info.js",
+		"/C/Users/rglx/AppData/Local/Temp/scp10843/cascade/home/bots/elite/new-ed-info-refactor/config.json",
+		"/C/Users/rglx/AppData/Local/Temp/scp02237/cascade/home/bots/elite/new-ed-info-refactor/new-ed-info.log",
+		"/C/Users/rglx/AppData/Local/Temp/scp02979/cascade/home/bots/elite/new-ed-info-refactor/commands/system.js",
+		"/C/Users/rglx/AppData/Local/Temp/scp36755/cascade/home/bots/elite/new-ed-info-refactor/commands/distance.js",
+		"/C/Users/rglx/AppData/Local/Temp/scp03290/cascade/home/bots/elite/new-ed-info-refactor/commands/gametime.js"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 319.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"(.*)",
+			"reset @s (.*) ",
+			"scoreboard objectives remove (.*) ",
+			"ores_mined_all",
+			"scoreboard objectives remove (.*) ",
+			" \\n",
+			"temp",
+			"jd",
+			"tc",
+			"pworld",
+			"temp",
+			"(w|i|n|t|t|o|a|m|l|d|e|l|'|M|r|h){10,}",
+			"(w|i|n|t|t|o|a|m|l|d|e|l|'|M|r|h){17}",
+			"[wint]+",
+			"[wint]",
+			"[w']{2}",
+			"[inhhairlrilaokM']{10,}",
+			"M[inhhairlrilaok']{10,}",
+			"M[amldelwintto']{10,}",
+			"M[amldelwintto']{6,}",
+			"M[amldelwintto']{3,}",
+			"M[amldelwintto']+",
+			"M[amldelwintto]{15}",
+			".{15}",
+			".{16}",
+			"\\n+",
+			"'",
+			"^(a|m|l|d|e|l|w|i|n|t|t|o|'|M|r|h){16}$",
+			"^.{16}$",
+			"[mldelwingtoro]{11}",
+			"[mldelwingtoro]{10}",
+			"[mldelwingtoro]{13}",
+			"['mldelwingtoro]{13}",
+			"['mldelwingtoro]",
+			"'",
+			"[mldelwingtoro]{10}",
+			"(^[mldelwingto])",
+			"<img src=\"/pokedex-bw/type/(.*)\\.(.*)\">",
+			"href=\"/",
+			"<img src=\"/pokedex-bw/type/(.*)\\.(.*)\">",
+			"href=\"/",
+			"<img src=\"/pokedex-bw/type/(.*)\\.(.*)\">",
+			"outgoingEmbed\\.\"(.*?)\"",
+			"entry",
+			"datetime",
+			"carrierstats",
+			"carrier",
+			"getInaraPage",
+			"returnedEmbedObject",
+			"\n/home/bungee/start.sh send-tmux 'alert Server restart in two seconds!'",
+			"$0 send-tmux 'say ",
+			"  {\n    \"uuid\": \"(.*)\",\n    \"name\": \"(.*)\"\n  },",
+			"\\t",
+			"  {\n    \"uuid\": \"(.*)\",\n    \"name\": \"(.*)\",\n    \"level\": (.*),\n    \"bypassesPlayerLimit\": (.*)\n  },",
+			"'",
+			"\\n&7Discord: &b&n%discord%&r",
+			"timeout",
+			"afk",
+			"tmux send-keys -t bungee:0 Enter ",
+			"tmux send-keys -t $service:$service",
+			"cleanBungeecordModules",
+			"(\\d+\\:\\d+)\\t(\\d+\\:\\d+)\\t(.*)\\n(.*)\\t(.*)\\n",
+			"(.*)\\t(.*)\\n(.*)\\t",
+			"(.*)\\t(.*)\\n(.*?)\\t",
+			"(.*)\\t(.*)",
+			"print ",
+			"é",
+			"Victory ",
+			" : ",
+			"Ba(t+)le ",
+			"    ",
+			"hsl(0",
+			"#BB2222",
+			"#b22",
+			"          ",
+			"▶",
+			"▲",
+			"\\.\\d+",
+			"\n  - null",
+			"[p]",
+			"]&r",
+			"[p]",
+			"&0",
+			"[p]",
+			"[o]",
+			"thisway-line3",
+			"\\.\\d+",
+			"[x]",
+			"…",
+			"...",
+			"&r &l",
+			"&r&r",
+			"▲",
+			"⮝",
+			"🢁",
+			"'",
+			"\\n\\s+(§|⎹)",
+			"§7",
+			"animation: thisway(\\d+)",
+			"sql",
+			"parkour",
+			"luckperms",
+			"§",
+			"§§",
+			"kit",
+			"commandtrait",
+			"\\.\\d+",
+			"\n  - null",
+			"\\.\\d+",
+			"parkour, ?(-)(\\d+\\.\\d+), ?(-)(\\d+\\.\\d+), ?(-)(\\d+\\.\\d+)",
+			"parkour, (\\d+\\.-), (\\d+\\.-), (\\d+\\.-)",
+			"parkour, ([\\d+\\.-]), ([\\d+\\.-]), ([\\d+\\.-])",
+			"broadc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"execute as @a[scores={mined_\\1=1..}] run scoreboard players remove @s mined_\\1 1 ",
+			"execute as @a[scores={mined_\\1=1..}] run scoreboard players add @s mined_ores_all 1 ",
+			"remove @s \\1 1 ",
+			"remove @s (.*) 1 ",
+			"execute as @a[scores={\\1=1..}] run scoreboard players reset @s \\1 ",
+			"execute as @a[scores={\\1=1..}] run scoreboard players add @s mined_stone_all 1 ",
+			"mined_ores_all",
+			"execute as @a[scores={\\1=1..}] run scoreboard players reset @s \\1 ",
+			"execute as @a[scores={\\1=1..}] run scoreboard players add @s ores_mined_all 1 ",
+			"\\n",
+			"\\1",
+			"href=\"https://serebii.net/",
+			"\\1",
+			"href=\"https://serebii.net/",
+			"\\1",
+			"outgoingEmbed[\"\\1\"]",
+			"/home/bungee/start.sh send-tmux 'alert ",
+			"\\1",
+			"",
+			"\\t\\1",
+			"\"",
+			"",
+			"/home/bungee/start.sh send-tmux ",
+			"$0 send-tmux",
+			"\\1\\t\\3\\t\\2\\n\\3\\t",
+			"\\1\\t\\3\\t\\2\\n\\3",
+			"\\2\\t\\1",
+			"print(",
+			"e",
+			"Victory",
+			"\\t",
+			"Battle",
+			"\\t",
+			"hsl(197",
+			"rgb(66, 159, 255)",
+			"     ",
+			"◀",
+			"▶",
+			".5",
+			"\n  - '{animation: checkpoint-small.txt}'",
+			"⬤",
+			"&0[p]&r",
+			"[p]",
+			"thisway-line1",
+			".5",
+			"&0[x]&r",
+			"&7&o…&r",
+			"…",
+			" ",
+			"",
+			"&r",
+			"&l▲&r",
+			"▲",
+			"⮝",
+			"",
+			"\\1",
+			"§9",
+			"animation: thisway-line\\1.txt",
+			"essentials",
+			"parkour",
+			"&",
+			"\\n",
+			".5",
+			"\n  - \"asd\"",
+			".5"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 109.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 209.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 186.0
+	},
+	"pinned_build_system": "",
+	"project": "survival datapacks.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 325.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

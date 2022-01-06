@@ -1,0 +1,6 @@
+{
+	"pack" : {
+		"pack_format" : 8,
+		"description" : "rotates through a list of scoreboards and changes their displays every few seconds"
+	}
+}

@@ -1,0 +1,1 @@
+tellraw @a {"text":"scoreboard rotator loaded.","color":"green"} 
